@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Syahrul Fahmi.
 
-<!--
-**Ailoarm/Ailoarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Web Developer from Indonesia.
 
-Here are some ideas to get you started:
+I mainly work with Laravel, Node.js, and MySQL to build web applications and internal management systems. Most of my recent work involves developing an ISP management system, integrating WhatsApp Cloud API, and automating daily business processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Besides web development, I'm also interested in networking, Linux servers, and AI automation. Recently, I've been learning more about Docker, Proxmox, MikroTik, and modern AI tools to improve the way I build and deploy applications.
+
+## Tech Stack
+
+**Backend**
+
+- Laravel
+- PHP
+- Node.js
+- Express.js
+
+**Frontend**
+
+- JavaScript
+- React
+- Next.js
+
+**Database**
+
+- MySQL
+
+**Tools**
+
+- Git
+- Linux
+- Nginx
+- PM2
+
+## What I'm Working On
+
+- ISP Management System
+- WhatsApp Cloud API Integration
+- AI-powered automation
+- Network management tools
+
+## Currently Learning
+
+- Docker
+- Proxmox
+- MikroTik Automation
+- AI Agents
+
+## Contact
+
+- LinkedIn
+- Upwork
