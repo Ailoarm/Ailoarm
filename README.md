@@ -36,17 +36,6 @@ Besides web development, I'm also interested in networking, Linux servers, and A
 
 - ISP Management System
 - WhatsApp Cloud API Integration
-- AI-powered automation
 - Network management tools
 
-## Currently Learning
 
-- Docker
-- Proxmox
-- MikroTik Automation
-- AI Agents
-
-## Contact
-
-- LinkedIn
-- Upwork
